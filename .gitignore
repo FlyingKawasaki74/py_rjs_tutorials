@@ -136,7 +136,7 @@ dmypy.json
 .idea/
 /shelf/
 /workspace.xml
-JS_basics/hello-world-app/
+01_JS_basics/hello-world-app/
 #---------------------------------------------------
 
 # Libreoffice ignore list

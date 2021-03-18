@@ -1,3 +1,3 @@
 # py_rjs_tutorials
 
-init
+based on  https://www.fullstackpython.com/react.html
